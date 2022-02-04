@@ -9,6 +9,7 @@ The focus of this notebook is on cleaning the data and storing the cleaned versi
 - Drop columns which have more than 20% missing data. Make a note of the columns.
 - Convert columns to their correct data type.
 - Subset the dataset based on certain criterion. Ex: property_type = Apartment/House/Townhouse/Condo
+- Treating Missing values.
 - Processing columns "PRICE" and "bathroom_texts" into proper output.
 
 Stage(2)(work in progress)
