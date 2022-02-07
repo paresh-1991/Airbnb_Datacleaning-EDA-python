@@ -1,4 +1,6 @@
 # Airbnb_Data-cleaning-python-project
+The goal of this notebook is to clean the raw airbnb Amsterdam dataset. The dataset can be found here:http://insideairbnb.com/get-the-data.html.
+NB:( i do not own any rights on this dataset).
 ##Cleaning Data
 
 
