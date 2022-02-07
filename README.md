@@ -1,7 +1,6 @@
-# Airbnb_Data-cleaning-to-EDA-python-project
+# Airbnb_Data-cleaning-python-project
 ##Cleaning Data
 
-Stage(1)
 
 The focus of this notebook is on cleaning the data and storing the cleaned version.  The strategy employed for cleaning the data is as follows:
 - Drop columns that are not relevant to the problem. Example: URL, host picture etc.
@@ -11,7 +10,5 @@ The focus of this notebook is on cleaning the data and storing the cleaned versi
 - Subset the dataset based on certain criterion. Ex: property_type = Apartment/House/Townhouse/Condo
 - Treating Missing values.
 - Processing columns "PRICE" and "bathroom_texts" into proper output.
-
-Stage(2)(work in progress)
--Handling Outliers
--Exploratory Data Analysis
+- Handling Outliers
+- feature Engineering: changing amenties text column to bag of words representing each amentity
